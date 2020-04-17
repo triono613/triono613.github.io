@@ -3,12 +3,12 @@ data :[
   "userId": 1,
   "id": 1,
   "title": "Taman Wisata Gunung Bromo",
-  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  "photo": "https://phinemo.com/wp-content/uploads/2018/03/sunrise-bromo.jpg"
 },
 {
   "userId": 2,
   "id": 2,
   "title": "Taman Wisata Gunung Gede Pangrango",
-  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  "photo": "https://phinemo.com/wp-content/uploads/2018/03/15624828_374033066310671_948259505429282816_n.jpg"
 }   
 ]
