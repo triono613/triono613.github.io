@@ -1,12 +1,10 @@
+
+
 {
-        "id": "1",
-        "name": "Taman Wisata Gunung Bromo xx",
-        "photo": "https://phinemo.com/wp-content/uploads/2018/03/sunrise-bromo.jpg"
-},
-{
-        "id": "2",
-        "name": "Taman Wisata Gunung Gede Pangrango",
-        "photo": "https://phinemo.com/wp-content/uploads/2018/03/15624828_374033066310671_948259505429282816_n.jpg"
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
 }
    
 
